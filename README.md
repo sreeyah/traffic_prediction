@@ -44,65 +44,69 @@ This repository contains two different machine learning projects for **traffic p
 ### 🔹 1. Text-based Prediction
 
 1. Navigate to project folder:
-   ```bash
+bash
    cd traffic_prediction_text
-````
+
 
 2. Install dependencies:
 
-   ```bash
    pip install flask pandas scikit-learn joblib
-   ```
+
 
 3. Train the model:
 
-   ```bash
+   
    python sample.py
-   ```
+   
 
    This generates a trained model (`model.pkl`).
 
 4. Run Flask app:
 
-   ```bash
+   
    python app.py
-   ```
+   
 
 5. Open browser at 👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
----
+
 
 ### 🔹 2. Image-based Prediction
 
 1. Navigate to project folder:
 
-   ```bash
    cd traffic_prediction_image
-   ```
+
 
 2. Create and activate virtual environment (recommended):
 
-   ```bash
+
    python -m venv venv
    source venv/bin/activate      # Mac/Linux
    venv\Scripts\activate         # Windows
-   ```
+
 
 3. Install dependencies:
 
-   ```bash
+
    pip install -r requirements.txt
-   ```
+
 
 4. Run Flask app:
 
-   ```bash
    python traffic_app.py
-   ```
+
 
 5. Open browser at 👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
----
+
+## Outputs 
+
+ <img width="1298" height="1064" alt="Screenshot 2026-04-28 142546" src="https://github.com/user-attachments/assets/e9aa5b0e-453a-4aac-b30d-3f2daedde3e3" />
+<img width="568" height="606" alt="Screenshot 2026-04-28 142632" src="https://github.com/user-attachments/assets/fea7b20e-ece0-454a-9426-82ada98c35da" />
+<img width="611" height="555" alt="Screenshot 2026-04-28 142659" src="https://github.com/user-attachments/assets/6cd0f12a-3514-4351-a711-caa38ddcf7c8" />
+
+
 
 ## 📦 Requirements
 
@@ -121,14 +125,14 @@ This repository contains two different machine learning projects for **traffic p
 * Pillow
 * Werkzeug
 
----
+
 
 ## 🖥️ Usage
 
 * **Text-based:** Enter values (humidity, wind speed, pressure, rainfall) and get the predicted temperature.
 * **Image-based:** Upload an image → App predicts whether it's **Traffic 🚗** or **No Traffic 🚦**.
 
----
+
 
 ## 📌 Notes
 
@@ -136,11 +140,3 @@ This repository contains two different machine learning projects for **traffic p
 * Uploaded images are saved in `uploads/` during runtime.
 * Use test images from `test/` to try the app quickly.
 
----
-
-```
-
----
-
-👉 Do you want me to also **add screenshots / example images** section in the README so it looks more professional on GitHub?
-```
