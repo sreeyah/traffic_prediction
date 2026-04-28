@@ -103,8 +103,8 @@ bash
 ## Outputs 
 
  <img width="1298" height="1064" alt="Screenshot 2026-04-28 142546" src="https://github.com/user-attachments/assets/e9aa5b0e-453a-4aac-b30d-3f2daedde3e3" />
-                  <img width="568" height="606" alt="Screenshot 2026-04-28 142632" src="https://github.com/user-attachments/assets/fea7b20e-ece0-454a-9426-82ada98c35da" />
-                  <img width="611" height="555" alt="Screenshot 2026-04-28 142659" src="https://github.com/user-attachments/assets/6cd0f12a-3514-4351-a711-caa38ddcf7c8" />
+<img width="1721" height="1082" alt="Screenshot 2026-04-28 143507" src="https://github.com/user-attachments/assets/c5c797dd-0ad9-47e5-82a5-2daa01d992c0" />
+<img width="1599" height="1012" alt="Screenshot 2026-04-28 143523" src="https://github.com/user-attachments/assets/885cb2a4-98a0-4c0b-929d-fa3cd37cc31a" />
 
 
 
@@ -129,8 +129,8 @@ bash
 
 ## 🖥️ Usage
 
-* **Text-based:** Enter values (humidity, wind speed, pressure, rainfall) and get the predicted temperature.
-* **Image-based:** Upload an image → App predicts whether it's **Traffic 🚗** or **No Traffic 🚦**.
+ **Text-based:** Enter values (humidity, wind speed, pressure, rainfall) and get the predicted temperature.
+ **Image-based:** Upload an image → App predicts whether it's **Traffic 🚗** or **No Traffic 🚦**.
 
 
 
