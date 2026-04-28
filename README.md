@@ -103,8 +103,8 @@ bash
 ## Outputs 
 
  <img width="1298" height="1064" alt="Screenshot 2026-04-28 142546" src="https://github.com/user-attachments/assets/e9aa5b0e-453a-4aac-b30d-3f2daedde3e3" />
-<img width="568" height="606" alt="Screenshot 2026-04-28 142632" src="https://github.com/user-attachments/assets/fea7b20e-ece0-454a-9426-82ada98c35da" />
-<img width="611" height="555" alt="Screenshot 2026-04-28 142659" src="https://github.com/user-attachments/assets/6cd0f12a-3514-4351-a711-caa38ddcf7c8" />
+                  <img width="568" height="606" alt="Screenshot 2026-04-28 142632" src="https://github.com/user-attachments/assets/fea7b20e-ece0-454a-9426-82ada98c35da" />
+                  <img width="611" height="555" alt="Screenshot 2026-04-28 142659" src="https://github.com/user-attachments/assets/6cd0f12a-3514-4351-a711-caa38ddcf7c8" />
 
 
 
